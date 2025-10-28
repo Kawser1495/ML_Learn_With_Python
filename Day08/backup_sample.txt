@@ -1,5 +1,6 @@
-Finding a new job!
- My Name Is Kawser
- I Studied in CSE
---- Inserted after line 3 using cursor ---
- I Want to be a Data Scientist
+My Name Is Kawser
+I Studied in CSE
+I Want to be a Data Scientist
+This line was appended!
+And so was this one!
+Append mode preserves existing content!
