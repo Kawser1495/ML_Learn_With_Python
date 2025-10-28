@@ -1,4 +1,5 @@
 Finding a new job!
  My Name Is Kawser
  I Studied in CSE
+--- Inserted after line 3 using cursor ---
  I Want to be a Data Scientist
