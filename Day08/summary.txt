@@ -1,0 +1,16 @@
+--- Grade Summary ---
+Alice: 32
+Bob: 78
+Charlie: 85
+Diana: 94
+Eve: Unknown
+Frank: 87
+Grace: Unknown
+Henry: 91
+Ivy: 76
+Jack: 88
+Unknown: 95
+---------------------
+Average: 80.66666666666667
+Highest: 95
+Lowest: 32
