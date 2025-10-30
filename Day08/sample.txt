@@ -1,11 +1,6 @@
-Alice,32
-Bob,78
-Charlie,85
-Diana,94
-Eve,invalid
-Frank,87
-Grace
-Henry,91
-Ivy,76
-Jack,88
-95
+My Name Is Kawser
+I Studied in CSE
+I Want to be a Data Scientist
+This line was appended!
+And so was this one!
+Append mode preserves existing content!
