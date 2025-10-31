@@ -70,11 +70,11 @@ Python-With-Machine-Learning/
 
 ├── Day04_Python_Lec04.ipynb
 
-├──      .
-
-├──      .
-
-├──      .
+├──                .
+                   .
+├──                .
+                   .
+├──                .
 
 ├── Day30_Python_Lec30.ipynb
 
