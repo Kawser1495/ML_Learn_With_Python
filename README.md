@@ -61,24 +61,39 @@ Modify the code to experiment with your own datasets.
 📂 File Structure
 Python-With-Machine-Learning/
 │
+
 ├── Day01_Python_Lec01.ipynb
+
 ├── Day02_Python_Lec02.ipynb
+
 ├── Day03_Python_LEC03.ipynb
+
 ├── Day04_Python_Lec04.ipynb
+
 ├──      .
+
 ├──      .
+
 ├──      .
+
 ├── Day30_Python_Lec30.ipynb
 
 ├── datasets/
+
 │   └── sample_data.csv
+
 │
 ├── outputs/
+
 │   ├── model_results.json
+
 │   └── confusion_matrix.png
+
 │
 ├── images/
+
 │   └── charts/
+
 │
 └── README.md
 
